@@ -1,0 +1,16 @@
+def mostrar_menu():
+    "╭━━━〔 🤖 *BOT JASPER* 🤖 〕━━━╮\n"
+    "┃\n"
+    "┃  Economia\n"
+    "┃  ┃\n"
+    "┃ `.trabajar / .w`\n"
+    "┃ `.crime / .c`\n"
+    "┃ `.daily / .d`\n"
+    "┃ `.depositar / .dp`\n"
+    "┃ `.retirar / .r`\n"
+    "┃ `.banco / .b`\n"
+    "┃\n"
+    "┃  información\n"
+    "┃  ┃\n"
+    "┃ `.ping / .p`\n"
+    
