@@ -13,4 +13,11 @@ def mostrar_menu():
     "┃  información\n"
     "┃  ┃\n"
     "┃ `.ping / .p`\n"
-    
+    "┃  PROFILE\n"
+    "┃ `.perfil`\n"
+    "┃ `.setname <nombre>`\n"
+    "┃ `.setage <edad>`\n"
+    "┃ `.setbirth <fecha>`\n"
+    "┃ `.setgene <genero>`\n"
+    "┃ `.setdesc <descripción>`\n"
+    "┃ `.level / .levelup`\n"
